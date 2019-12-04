@@ -1,1 +1,1 @@
-# upe-ci-project
+# Computação Inteligente
